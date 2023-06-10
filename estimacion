@@ -1,0 +1,52 @@
+* Epic:
+	- home View
+	
+	* Feature
+
+		- NavBar:[14H]
+		
+			* ISSUES
+			
+			1- Maquetacion (responsive)
+			2- redireccion a los links shoes,clothes,skate,basket
+			3- buscador 
+			4- redireccion perfil
+			5- pop-up carrito
+			
+			
+		-Page content:[18h]
+		
+			* ISSUES
+			
+			1- Maquetacion (responsive)
+			2- redireccion a la vista de articulos al clickear en alguna marca de los costados
+			3- scroll horizontal 
+			4- click en el champion y te lleva a la vista para compra (en la esquina superior derecha de la imagen main)
+			
+			
+
+* Epic:
+	- lista de articulos view (zapas)
+	
+	* Feature
+	
+		- Lista de articulos:[6H]
+			1- Maquetacion
+			2- api call
+			
+		- Filtro :[32H]
+			1- maquetacion
+			2- filtro precio
+			3- filtro color
+			4- filtro marca
+			
+			
+* Epic:
+	- Vista compra 
+	
+	* Feature
+	
+		- Comprar articulo:[12H]
+			1- Maquetacion
+			2- api call get
+			3- manejo de estados para carrito---> posible nuevo epic
